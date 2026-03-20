@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Luna_on_pc",
-    "password": "",
-    "type": "offline"
+    "password": "1.21.11",
+    "type": "online"
   },
   "server": {
     "ip": "Kjutkoo.aternos.me",
